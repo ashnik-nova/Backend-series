@@ -15,4 +15,4 @@ connect_DB()
     (error) => {
         console.log(error);
     }
-)
+);
